@@ -1,0 +1,27 @@
+*{
+	margin:0;
+	padding:0;
+	-webkit-box-sizing:border-box;
+}
+
+ul{
+	list-style:none;
+}
+
+.container ul{
+	width:100%;
+}
+
+.container li{
+	display:inline-block;
+	float:left;
+    width:50%;
+    padding:5px 10px;
+	min-height: 280px;
+	background-size: 100% 100%;
+}
+
+.container li img{
+	width:100%;
+	height:210px;
+}
